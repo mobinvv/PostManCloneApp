@@ -1,4 +1,4 @@
-namespace PostmanCloneUI;
+namespace PostmanCloneUI
 {
     internal static class Program
     {
